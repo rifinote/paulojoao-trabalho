@@ -1,0 +1,52 @@
+body{
+
+background: url(./fundo3.jpg) no-repeat;
+background-size: 100%;
+width: 95%;
+margin: auto;
+font-family: sans-serif;
+line-height: 1.5;
+color: #fff;
+max-width: 800px;
+
+}
+
+main{
+
+background: #00000059;
+padding: 5px 40px;
+margin-top: 20px;
+border-radius: 20px;
+
+}
+
+.word, .maneiras {
+
+margin: 0;
+text-align: center;
+color: #fff;
+
+}
+
+p{
+
+text-align: justify;
+
+}
+
+.chuveiro{
+
+    margin: 0;
+    text-align: right;
+
+}
+
+.parte {
+
+margin: 330px;
+text-align: center;
+color: rgb(224, 224, 224);
+
+}
+
+
