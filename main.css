@@ -1,0 +1,49 @@
+body {
+    
+background: url(./fundo3.jpg) no-repeat;
+background-size: 100%;
+
+width: 95%;
+
+max-width: 800px;
+
+margin: auto;
+
+font-family: roboto; 
+
+line-height: 2;
+
+color: white;
+
+}
+
+
+main {
+
+   background: #0000002e;
+   padding: 5px 40px;
+   margin-top: 20px;
+   border-radius: 20px;
+}
+
+.Logo, .mundo, .Economy, .hora, .button {
+    
+    margin: 0;
+    text-align: center;
+    color: black;
+}
+.button{
+    
+    cursor: pointer;
+    border: none;
+    padding: 16px 32px;
+    font-family: Arial black;
+    color: #0751a7
+}
+
+.site {
+
+    margin: 0;
+    text-align: center;
+
+}
